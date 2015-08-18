@@ -19,4 +19,5 @@ def turnand4():
 move32()
 turnand4()
 turn(1)
+move32()
 
