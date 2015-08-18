@@ -9,3 +9,10 @@ def drawsquare():
     
 
 drawsquare()
+drawsquare()
+drawsquare()
+drawsquare()
+drawsquare()
+drawsquare()
+drawsquare()
+drawsquare()
