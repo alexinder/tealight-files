@@ -10,6 +10,4 @@ distance = 32
 for n in range(0,distance):
   move()
   
-if touch()=='wall':
-  turn(1)
-  
+
