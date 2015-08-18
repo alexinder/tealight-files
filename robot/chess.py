@@ -11,4 +11,4 @@ for n in range(0,distance):
   move()
   
 if touch()=='wall':
-  turn(2)
+  turn(90)
