@@ -17,7 +17,7 @@ def turnrightand4():
     move()
     
 def turnleftand4():
-  turn(1) 
+  turn(-1) 
   distance = 4
   for n in range(0,distance):
     move()
