@@ -23,7 +23,7 @@ def turnleftand4():
     move()
 
 move32()
-turnand4()
+turnrighand4()
 turn(1)
 move32()
 t
