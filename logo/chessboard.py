@@ -10,4 +10,4 @@ drawsquare()
 turn(90)
 drawsquare()
 turn(90)
-draw(square)
+drawsquare(0
