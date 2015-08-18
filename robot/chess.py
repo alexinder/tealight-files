@@ -12,7 +12,7 @@ def move32():
     
 def turnand4():
  distance = 4
- for n in range(O,distance):
+ for n in range(0,distance):
     move()
 
 move32()
