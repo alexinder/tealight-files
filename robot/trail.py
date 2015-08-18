@@ -13,4 +13,6 @@ while n<1000:
   print touch()
   if touch()=='fruit':
     move()
-    
+  elif touch()==None:
+    if right_side()=='fruit'
+
