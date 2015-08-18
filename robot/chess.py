@@ -9,5 +9,4 @@ from tealight.robot import (move,
 distance = 32
 for n in range(0,distance):
   move()
-  turn(1)
 
