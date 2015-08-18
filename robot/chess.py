@@ -6,9 +6,10 @@ from tealight.robot import (move,
                             left_side, 
                             right_side)
 
-distance = 100
+distance = 30
 for n in range(0,distance):
   move()
   
 if touch()=='wall':
   turn(1)
+  
