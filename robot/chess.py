@@ -30,4 +30,6 @@ turnleftand4()
 turn(-1)
 move32()
 turnrightand4()
+turn(1)
+move32()
 
