@@ -8,7 +8,7 @@ from tealight.robot import (move,
 
 # Add your code here
 n=0
-while n<10000:
+while n<1000:
   n=n+1
   print touch()
   if touch()=='fruit':
