@@ -14,5 +14,8 @@ while n<1000:
   if touch()=='fruit':
     move()
   elif touch()==None:
-    if right_side()=='fruit'
+    if right_side()=='fruit':
+      turn(1)
+    elif left_side()=='fruit'
+      turn(-1)
 
