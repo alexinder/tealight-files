@@ -9,4 +9,4 @@ from tealight.robot import (move,
 # Add your code here
 
 while True:
-  if touch()=='fruit'
+  if touch()=='fruit':
