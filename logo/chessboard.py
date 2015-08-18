@@ -9,3 +9,5 @@ def drawsquare():
 drawsquare()
 turn(90)
 drawsquare()
+turn(90)
+draw(square)
