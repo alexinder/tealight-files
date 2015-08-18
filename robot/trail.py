@@ -7,7 +7,7 @@ from tealight.robot import (move,
                             right_side)
 
 # Add your code here
-
+n=0
 while n<10000:
   n=n+1
   print touch()
