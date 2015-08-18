@@ -9,7 +9,7 @@ from tealight.robot import (move,
 # Add your code here
 
 while n<10000:
-  n++
+  n=n+1
   print touch()
   if touch()=='fruit':
     move()
