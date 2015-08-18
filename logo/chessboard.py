@@ -9,5 +9,3 @@ def drawsquare():
 drawsquare()
 turn(90)
 move(25)
-drawsquare()
-drawsquare()
