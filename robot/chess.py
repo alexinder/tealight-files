@@ -7,7 +7,7 @@ from tealight.robot import (move,
                             right_side)
 def move32():
   distance = 32
-    for n in range(0,distance):
+   for n in range(0,distance):
     move()
   
 
