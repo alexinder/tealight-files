@@ -1,7 +1,7 @@
 from tealight.logo import move, turn, color
 
 
-def drawsquare(x,y):
+def drawsquare():
   for i in range(0,360):
     print i
 #  turn(x)
