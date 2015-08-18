@@ -18,4 +18,3 @@ while n<1000:
       turn(1)
     elif left_side()=='fruit':
       turn(-1)
-turn(0.5)
