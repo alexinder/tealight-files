@@ -10,7 +10,7 @@ def move32():
  for n in range(0,distance):
     move()
     
-def turnand4():
+def turnrightand4():
   turn(1) 
   distance = 4
   for n in range(0,distance):
@@ -20,4 +20,5 @@ move32()
 turnand4()
 turn(1)
 move32()
+t
 
