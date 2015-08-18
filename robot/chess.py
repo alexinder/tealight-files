@@ -10,5 +10,10 @@ distance = 100
 for n in range(0,distance):
   move()
   
+distance = 200
+for n in range(0,distance):
+  move()
+  
+  
 if touch()=='wall':
   turn(90)
