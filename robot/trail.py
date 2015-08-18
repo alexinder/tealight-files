@@ -16,6 +16,6 @@ while n<1000:
   elif touch()==None:
     if right_side()=='fruit':
       turn(1)
-    elif left_side()=='fruit'
+    elif left_side()=='fruit':
       turn(-1)
 
