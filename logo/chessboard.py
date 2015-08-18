@@ -8,4 +8,4 @@ def drawsquare():
 
 drawsquare()
 turn(90)
-draw(square)
+drawsquare()
