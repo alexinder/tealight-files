@@ -1,15 +1,16 @@
 from tealight.logo import move, turn, color
 
 
-def drawsquare():
-  turn(90)
-  move(25)
-  turn (90)
-  move (25)
-  turn (90)
-  move (25)
-  turn (90)
-  move (25)
+def drawsquare(x,y):
+  for i in range(90,25)
+  turn(x)
+  move(y)
+  turn (x)
+  move (y)
+  turn (x)
+  move (y)
+  turn (x)
+  move (y)
   
 drawsquare()
 
