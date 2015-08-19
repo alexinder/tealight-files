@@ -46,6 +46,6 @@ def handle_frame():
   
   color("red")
   
-  spot(x,y,8)
+  spot(x,y,36)
   
   
