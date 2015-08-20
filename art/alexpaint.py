@@ -18,9 +18,8 @@ w = 25
 h= 25
 DrawPalette(x,y, colors , w, h)
 
-def handle_mousedown(x,y):
-  ColNo = (x-10)/25
-  RowNo = (y-75)/25
+def handle_mousedown(mx,my):
+  RowNo = (my-y)/h
   
   print ColNo, RowNo
   
