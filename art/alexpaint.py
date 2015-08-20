@@ -40,5 +40,5 @@ box(35, 125, 25, 25)
 color("orange")
 box(10,150, 25, 25)
 
-color("purple)
+color("purple")
 box(35, 150, 25, 25)
