@@ -30,10 +30,10 @@ colors = ["black",
           "yellow",
           "rainbow"]    
 
-x = 100
-y = 75
-w = 25
-h= 25
+x = 50
+y = 50
+w = 75
+h= 75
 DrawPalette(x,y, colors , w, h)
 
 def color_click(mx,my):
