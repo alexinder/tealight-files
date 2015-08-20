@@ -18,5 +18,3 @@ def handle_mousemove(x,y,button):
     line(lastx, lasty, x, y)
     lastx = x
     lasty = y
-
-box(300,100,100)
