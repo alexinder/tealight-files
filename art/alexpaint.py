@@ -73,5 +73,5 @@ box(10, 275, 25, 25)
 color("forestgreen")
 box(35, 275, 25, 25)
 
-(x-10)/25 == ColNo
-(y-75)/25 == RowNo
+(lastx-10)/25 == ColNo
+(lasty-75)/25 == RowNo
