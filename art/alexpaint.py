@@ -22,7 +22,7 @@ def handle_mousedown(mx,my):
   RowNo = (my-y)/h
   
   print RowNo
-  print colors[1]
+  print colors[RowNo]
   
   return
   
