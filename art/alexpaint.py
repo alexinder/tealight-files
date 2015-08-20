@@ -21,3 +21,5 @@ def handle_mousemove(x,y,button):
 
 color("yellow")
 box(10, 75, 25, 25)
+
+
