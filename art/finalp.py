@@ -1,1 +1,1 @@
-from github.tabia98.art.Mpaint import *
+import github.tabia98.art.Mpaint
