@@ -22,8 +22,10 @@ def handle_mousemove(x,y,button):
 color("black")
 box(10, 75, 25, 25)
 
-color("blue")
+color("grey")
 box(35, 75, 25, 25)
 
 color("red")
 box(10, 100, 25, 25)
+
+c
