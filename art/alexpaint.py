@@ -70,4 +70,6 @@ def handle_mousedown(x,y):
     print "Orange"
   elif ColNo == 0 and RowNo == 4:
     print "Pink"
-  elif ColNo
+  elif ColNo == 0 and RowNo == 5:
+    print "Rose"
+  elif ColNo == 0 and RowNo == 6:
