@@ -61,4 +61,5 @@ def handle_mousedown(x,y):
   print ColNo, RowNo
   
   if ColNo and Row No == 0, 1
-    print 
+    print "Black"
+  elif ColNo and Row No ==
