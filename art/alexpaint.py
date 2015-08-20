@@ -59,3 +59,6 @@ def handle_mousedown(x,y):
   RowNo = (y-75)/25
   
   print ColNo, RowNo
+  
+  if ColNo and Row No == 0, 1
+    print 
