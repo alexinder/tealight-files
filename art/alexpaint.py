@@ -52,5 +52,5 @@ box(35, 175, 25, 25)
 color("violet")
 box(10, 200, 25, 25)
 
-color("rose")
-box(10, 225, 25, 25)
+color("aqua")
+box(35, 200, 25, 25)
