@@ -3,7 +3,12 @@ from tealight.art import (color, line, spot, circle, box, image, text, backgroun
 def DrawPalette(x,y, colors, w, h):
   for c in colors:
     if c == "rainbow":
-      box(
+      color("blue")
+      box(x,y, w/3, h)
+      color("red")
+      box(x+h/3, y, w/3, h)
+      color("yellow")
+      box(x+2*h/3, y, w/3, h)
     else: 
       color(c)
       box(x, y, w, h)
