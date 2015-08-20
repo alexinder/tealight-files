@@ -54,3 +54,6 @@ box(10, 200, 25, 25)
 
 color("aqua")
 box(35, 200, 25, 25)
+
+color("turqoise")
+box(10, 225, 25, 25)
