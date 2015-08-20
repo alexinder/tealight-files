@@ -67,7 +67,7 @@ box(10, 250, 25, 25)
 color("chocolate")
 box(35, 250, 25, 25)
 
-color("antiquewhite")
+color("limegreen")
 box(10, 275, 25, 25)
 
 color("forestgreen")
