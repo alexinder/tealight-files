@@ -1,1 +1,1 @@
-print "A new file!"
+from github.tabia98.art.Mpaint import *
