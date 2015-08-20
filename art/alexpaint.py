@@ -48,3 +48,6 @@ box(10, 175, 25, 25)
 
 color("indigo")
 box(35, 175, 25, 25)
+
+color("violet")
+box(10, 200, 25, 25)
