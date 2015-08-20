@@ -3,8 +3,8 @@ from tealight.art import (color, line, spot, circle, box, image, text, backgroun
 def DrawPalette(x,y, colors, w, h):
   for c in colors:
     if c == "rainbow":
-      
-    else:
+      box(
+    else: 
       color(c)
       box(x, y, w, h)
     y = y + h
