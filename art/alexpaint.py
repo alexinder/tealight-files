@@ -60,3 +60,6 @@ box(10, 225, 25, 25)
 
 color("silver")
 box(35, 225, 25, 25)
+
+color("magenta")
+box(10, 250, 25, 25)
