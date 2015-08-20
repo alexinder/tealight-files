@@ -19,7 +19,8 @@ colors = ["black",
           "forestgreen",
           "orange",
           "gold",
-          "yellow"]    
+          "yellow",
+          "rainbow"]    
 
 x = 100
 y = 75
