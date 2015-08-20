@@ -30,7 +30,7 @@ colors = ["black",
           "yellow",
           "rainbow"]    
 
-x = 50
+x = 5
 y = 50
 w = 75
 h= 75
