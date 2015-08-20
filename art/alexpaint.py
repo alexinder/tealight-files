@@ -6,7 +6,10 @@ def DrawPalette(x,y, colors, w, h):
     box(x, y, w, h)
     y = y + h
 
-DrawPalette(100,75, ["black", "red", "blue"], 25, 25)
+    
+colors = ["black", "red", "blue"]    
+
+DrawPalette(100,75, colors , 25, 25)
 
 
 
