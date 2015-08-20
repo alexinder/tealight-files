@@ -11,7 +11,11 @@ colors = ["black",
           "grey", 
           "red", 
           "blue",
-          ]    
+          "lime green",
+          "forest green",
+          "yellow",
+          "orange",
+          "gold"]    
 
 x = 100
 y = 75
