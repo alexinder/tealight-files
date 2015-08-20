@@ -27,7 +27,7 @@ w = 25
 h= 25
 DrawPalette(x,y, colors , w, h)
 
-def handle_mousedown(mx,my):
+def color_click(mx,my):
   if mx > x and mx < x+w and my > y and my < y+(h*len(colors)):
     
       RowNo = (my-y)/h
