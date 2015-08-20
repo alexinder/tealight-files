@@ -19,7 +19,7 @@ h= 25
 DrawPalette(x,y, colors , w, h)
 
 def handle_mousedown(mx,my):
-  if mx > x and mx < x+w,
+  if mx > x and mx < x+w:
      my > y and my < y+h:
     
       RowNo = (my-y)/h
