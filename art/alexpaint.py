@@ -33,3 +33,6 @@ box(35, 100, 25, 25)
 
 color("green")
 box(10, 125, 25, 25)
+
+color("yellow")
+box(35, 125, 25, 25)
