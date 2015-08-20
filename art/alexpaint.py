@@ -21,7 +21,9 @@ DrawPalette(x,y, colors , w, h)
 def handle_mousedown(mx,my):
   RowNo = (my-y)/h
   
-  print ColNo, RowNo
+  print RowNo
+  
+  return
   
   if ColNo == 0  and RowNo == 0:
     print "Black"
