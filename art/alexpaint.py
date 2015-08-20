@@ -30,8 +30,8 @@ colors = ["black",
           "yellow",
           "rainbow"]    
 
-x = 10
-y = 10
+x = 15
+y = 15
 w = 50
 h= 55
 DrawPalette(x,y, colors , w, h)
