@@ -71,4 +71,4 @@ color("antiquewhite")
 box(10, 275, 25, 25)
 
 color("forestgreen")
-box(10, 300, 25, 25)
+box(35, 275, 25, 25)
