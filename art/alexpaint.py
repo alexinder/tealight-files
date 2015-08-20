@@ -13,8 +13,8 @@ colors = ["black",
           "blue",
           "limegreen",
           "forestgreen",
-          "yellow",
           "orange",
+          "yellow",
           "gold"]    
 
 x = 100
