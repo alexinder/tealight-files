@@ -7,7 +7,8 @@ def DrawPalette(x,y, colors, w, h):
     y = y + h
 
     
-colors = ["black", 
+colors = ["black",
+          "grey", 
           "red", 
           "blue",
           ]    
