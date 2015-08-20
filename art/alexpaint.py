@@ -73,5 +73,8 @@ box(10, 275, 25, 25)
 color("forestgreen")
 box(35, 275, 25, 25)
 
-(x-10)/25 == ColNo
-(y-75)/25 == RowNo
+def handle_mousedown(x,y):
+  ColNo = (x-10)/25
+  RowNo = (y-75)/25
+  
+  print ColNo, RowNo
