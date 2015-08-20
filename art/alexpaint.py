@@ -32,7 +32,7 @@ def color_click(mx,my):
     
       RowNo = (my-y)/h
   
-      color(colors[RowNo])
+      #color(colors[RowNo])
       print RowNo
-  
-  return
+      
+      return colors[RowNo]
