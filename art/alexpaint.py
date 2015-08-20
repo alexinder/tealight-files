@@ -88,4 +88,11 @@ def handle_mousedown(x,y):
     print "Purple"
   elif ColNo == 1 and RowNo == 4:
     print "Indigo"
-    
+  elif ColNo == 1 and RowNo == 5:
+    print "Aqua"
+  elif ColNo == 1 and RowNo == 6:
+    print "Silver"
+  elif ColNo == 1 and RowNo == 7:
+    print "Chocolate"
+  elif ColNo == 1 and RowNo == 8:
+    print "Forest Green"
