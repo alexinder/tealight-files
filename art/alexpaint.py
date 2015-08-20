@@ -23,4 +23,4 @@ color("black")
 box(10, 75, 25, 25)
 
 color("white")
-box(10, 75, 25, 25)
+box(10, 100, 25, 25)
