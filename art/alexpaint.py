@@ -1,5 +1,14 @@
 from tealight.art import (color, line, spot, circle, box, image, text, background)
 
+def DrawPalette(x,y, colors, w, h):
+  for c in colors:
+    color(c)
+    box(x, y, w, h)
+
+DrawPalette(100,75, ["black", "red", "blue"], 25, 25)
+
+
+
 color("black")
 box(10, 75, 25, 25)
 
