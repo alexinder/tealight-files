@@ -10,7 +10,6 @@ def DrawPalette(x,y, colors, w, h):
 colors = ["black",
           "grey", 
           "red",
-          "rose",
           "magenta",
           "pink",
           "blue",
