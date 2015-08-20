@@ -12,8 +12,54 @@ colors = ["black",
           "blue",
           ]    
 
-DrawPalette(100,75, colors , 25, 25)
+x = 100
+y = 75
+w = 25
+h= 25
+DrawPalette(x,y, colors , w, h)
 
+def handle_mousedown(x,y):
+  ColNo = (x-10)/25
+  RowNo = (y-75)/25
+  
+  print ColNo, RowNo
+  
+  if ColNo == 0  and RowNo == 0:
+    print "Black"
+  elif ColNo == 0 and RowNo == 1:
+    print "Red"
+  elif ColNo == 0 and RowNo == 2:
+    print "Dark Green"
+  elif ColNo == 0 and RowNo == 3:
+    print "Orange"
+  elif ColNo == 0 and RowNo == 4:
+    print "Pink"
+  elif ColNo == 0 and RowNo == 5:
+    print "Rose"
+  elif ColNo == 0 and RowNo == 6:
+    print "Gold"
+  elif ColNo == 0 and RowNo == 7:
+    print "Magenta"
+  elif ColNo == 0 and RowNo == 8:
+    print "Lime Green"
+  elif ColNo == 1 and RowNo == 0:
+    print "Grey"
+  elif ColNo == 1 and RowNo == 1:
+    print "Blue"
+  elif ColNo == 1 and RowNo == 2:
+    print "Yellow"
+  elif ColNo == 1 and RowNo == 3:
+    print "Purple"
+  elif ColNo == 1 and RowNo == 4:
+    print "Indigo"
+  elif ColNo == 1 and RowNo == 5:
+    print "Aqua"
+  elif ColNo == 1 and RowNo == 6:
+    print "Silver"
+  elif ColNo == 1 and RowNo == 7:
+    print "Chocolate"
+  elif ColNo == 1 and RowNo == 8:
+    print "Forest Green"
 
 
 color("black")
@@ -70,45 +116,3 @@ box(10, 275, 25, 25)
 color("forestgreen")
 box(35, 275, 25, 25)
 
-def handle_mousedown(x,y):
-  ColNo = (x-10)/25
-  RowNo = (y-75)/25
-  
-  print ColNo, RowNo
-  
-  if ColNo == 0  and RowNo == 0:
-    print "Black"
-  elif ColNo == 0 and RowNo == 1:
-    print "Red"
-  elif ColNo == 0 and RowNo == 2:
-    print "Dark Green"
-  elif ColNo == 0 and RowNo == 3:
-    print "Orange"
-  elif ColNo == 0 and RowNo == 4:
-    print "Pink"
-  elif ColNo == 0 and RowNo == 5:
-    print "Rose"
-  elif ColNo == 0 and RowNo == 6:
-    print "Gold"
-  elif ColNo == 0 and RowNo == 7:
-    print "Magenta"
-  elif ColNo == 0 and RowNo == 8:
-    print "Lime Green"
-  elif ColNo == 1 and RowNo == 0:
-    print "Grey"
-  elif ColNo == 1 and RowNo == 1:
-    print "Blue"
-  elif ColNo == 1 and RowNo == 2:
-    print "Yellow"
-  elif ColNo == 1 and RowNo == 3:
-    print "Purple"
-  elif ColNo == 1 and RowNo == 4:
-    print "Indigo"
-  elif ColNo == 1 and RowNo == 5:
-    print "Aqua"
-  elif ColNo == 1 and RowNo == 6:
-    print "Silver"
-  elif ColNo == 1 and RowNo == 7:
-    print "Chocolate"
-  elif ColNo == 1 and RowNo == 8:
-    print "Forest Green"
