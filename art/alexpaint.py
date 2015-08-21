@@ -7,7 +7,7 @@ def DrawPalette(x,y, colors, w, h):
       box(x,y, w/3, h)
       color("red")
       box(x+h/3, y, w/3, h)
-      color("pink")
+      color("limegreen")
       box(x+2*h/3, y, w/3, h)
     else: 
       color(c)
